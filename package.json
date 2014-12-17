@@ -1,0 +1,32 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "Using Node.js with MySQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qawemlilo/node-mysql.git"
+  },
+  "keywords": [
+    "bookshelfjs",
+    "mysql",
+    "express"
+  ],
+  "author": "Qawelesizwe Mlilo <qawemlilo@gmail.com> (http://blog.ragingflame.co.za/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qawemlilo/node-mysql/issues"
+  },
+  "homepage": "https://github.com/qawemlilo/node-mysql",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "bookshelf": "^0.7.6",
+    "express": "^4.4.5",
+    "knex": "^0.6.22",
+    "lodash": "^2.4.1",
+    "mysql": "^2.4.0"
+  }
+}
